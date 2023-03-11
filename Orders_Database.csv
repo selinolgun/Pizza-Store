@@ -1,0 +1,5 @@
+Date;Name Surname;Credit Card Number;Owner of the Credit Card;Card's CVV Code;Ingredients;Price
+2023-03-11 00:36:39.737912;Selin Olgun;123456789;Selin Olgun;123;['Thin Dough', 'Guacamole Sauce', 'Mozzarella', 'Chedar', 'Mushrooms', 'Chicken Meat', 'Cauliflower'];68
+2023-03-11 00:39:04.545712;Sonay Ilýca;987654321;Selin Olgun;987;['Thin Dough', 'Blue Cheese Sauce', 'Mozzarella', 'Emmental', 'Capia Pepper', 'Sausage', 'Mushrooms', 'Corn', 'Onion'];85
+2023-03-11 00:40:05.322442;Deneme Kullanýcý;546372869;Deneme Kullanýcý;759;['Thick Dough', 'Tomato Sauce', 'Pesto Sauce', 'Edam', 'Tomato', 'Olive', 'Bacon', 'Ham', 'Broccoli'];81
+2023-03-11 00:43:33.417950;Rastgele Ýnsan;275839374;Rastgele Ýnsan;485;['Medium Dough', 'Pesto Sauce', 'Edam', 'Chedar', 'Tomato', 'Sausage', 'Corn', 'Onion', 'Cauliflower'];82

@@ -1,0 +1,30 @@
+Pastry:
+	Thin Dough (+15 $)
+	Medium Dough (+20 $)
+	Thick Dough (+25 $)
+
+Sauces:
+	Tomato Sauce(+5 $)
+	Blue Cheese Sauce(+7 $)
+	Pesto Sauce(+6 $)
+	Guacamole Sauce(+7 $)
+
+Cheeses:
+	Mozzarella (+11 $)
+	Edam(+12 $)
+	Chedar (+10 $)
+	Emmental(+13 $)
+
+Upper Materials:
+	Capia Pepper (+8 $)
+	Tomato(+6 $)
+	Olive (+5 $)
+	Sausage (+11 $)
+	Mushrooms (+9 $)
+	Bacon (+7 $)
+	Corn (+5 $)
+	Onion(+6 $)
+	Chicken Meat (+10 $)
+	Ham (+8 $)
+	Broccoli (+7 $)
+	Cauliflower(+6 $)
